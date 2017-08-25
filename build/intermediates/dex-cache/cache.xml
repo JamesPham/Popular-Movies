@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ninhp\.android\build-cache\a0a6c018d63d4c63c9ac63858890dfee28dbdf07\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\OneDrive\AAD\Android-Projects\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_ae43eb9d939af243e84ecdfa04396e3039de3470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ninhp\.android\build-cache\4fd741a3dfda4609a363631622db6b0ad79072e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\OneDrive\AAD\Android-Projects\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_e365533d28d46bf2671c102f53921ce9043d4f13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ninhp\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\OneDrive\AAD\Android-Projects\PopularMovies\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_955335602571a961ca0b910714ee67ea5b57fdb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ninhp\.android\build-cache\afd6a4a8e098426085270b1df89ee198c3f80673\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\OneDrive\AAD\Android-Projects\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_1bfeafc865378887018805829499f06447574924.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ninhp\.android\build-cache\19184b646bd49bcadf58735ba4f64bc1017b69bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\OneDrive\AAD\Android-Projects\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_fec6f03868e4af5adc2acd2ebe69ca1240107806.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ninhp\.android\build-cache\47a4202d78a7e3e8800fb663a5689988553b089f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\OneDrive\AAD\Android-Projects\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_1bd5ceae50f7838ad5f95e7b03cd8bf680da398e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ninhp\.android\build-cache\01016d720e4a13c6d50787adc6a2a9ad822a7cde\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\OneDrive\AAD\Android-Projects\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_ec652323098007d364c715e9d9dffb7468da7175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ninhp\.android\build-cache\71e4b40d78da4bf4a580d065e449672018aae5c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\OneDrive\AAD\Android-Projects\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_68b8bf3d18dead638b584f99ce0508987f1bdffb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\ninhp\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\OneDrive\AAD\Android-Projects\PopularMovies\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_4463d7851e9b60a52b9512f1c2f78bc49357a293.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ninhp\.android\build-cache\bfbc9e517a21b73d2fe715ab0e89581e816a4482\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\OneDrive\AAD\Android-Projects\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_f236fd799f4bb262263ff20ec22ab9b36737b50a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\ninhp\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\OneDrive\AAD\Android-Projects\PopularMovies\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_399b5962efe7263cc0fe7e0bc0ba3c244488b5e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ninhp\.android\build-cache\add0b337c0456824c9c60a46205d02db8a3496e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\OneDrive\AAD\Android-Projects\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_4f76630e7eab9e47bd66fb254ca3490fc4ee08b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ninhp\.android\build-cache\e4df645241224f082552eb69dc0801e0bcb5251a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\OneDrive\AAD\Android-Projects\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_052fca2d02b927f245d78d825332b77a093bce4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ninhp\.android\build-cache\2bb705ea70ad46812651965ae7a28e9ac67e777c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\OneDrive\AAD\Android-Projects\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_b1400b640fc6df87b2d2e359a0ffa8ab86c3b4b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ninhp\.android\build-cache\bdabb255951692ee67d80f9ec3f40718fb09c720\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\OneDrive\AAD\Android-Projects\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_22a582e77637a6927f8460dc1f3dd24e074a2221.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ninhp\.android\build-cache\0241e17bae1c9670d87c089277e46350acb22ace\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\OneDrive\AAD\Android-Projects\PopularMovies\app\build\intermediates\pre-dexed\debug\classes_bf5f3b6dd6772fdd10b5fe205447bb5bc1934853.jar" />
+    </item>
+
+</items>
